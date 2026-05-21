@@ -1,2 +1,9 @@
-# CP-notes
-Personal competitive programming notes, solutions, mistakes, and learning progress.
+# CP Notes
+
+## Solved Problems
+- Arrays: 1
+- Binary Search: 0
+- Graphs: 0
+
+## Current Focus
+- Arrays
