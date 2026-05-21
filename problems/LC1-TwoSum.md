@@ -1,1 +1,2 @@
-
+Problem Link- https://leetcode.com/problems/two-sum/description/
+Common Approach Beginners Follows for this is, we will fix one element of array, and will iterate through all other elements and will try to check if our fixed element + element from array = Target or not, if it doesn't, we will keep on fixing all this elements one by one and checking for the condition. It Will Work, but problem here is that it takes too much time. so we will go for optimal approach.
